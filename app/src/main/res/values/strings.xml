@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SNOFit</string>
+    <string name="F_text2">Your Smart Food Diary</string>
+    <string name="F_text3">VK: @ezhizhlo</string>
+    <string name="F_text4">Press Enter</string>
+
+
+    <string name="F_b_text4">START</string>
+    <string name="reg_text1">Your name:</string>
+    <string name="reg_text_1">Name</string>
+    <string name="reg_text2">Your age:</string>
+    <string name="reg_text3">Your height:</string>
+    <string name="reg_text4">Your weight:</string>
+    <string name="reg_text5">Your gender:</string>
+    <string name="reg_text6"> </string>
+    <string name="men">Men</string>
+    <string name="women">Women</string>
+    <string name="registrat_l">Registration</string>
+    <string name="registrat">Create account</string>
+
+
+    <string name="fiz_activ">Daily physical activity</string>
+    <string name="desired_w">Speed of weight loss</string>
+    <string name="butt_ins">ENTER</string>
+
+
+    <string name="Daily_rate_s">Daily rate</string>
+    <string name="The_remaining_s">Remained</string>
+    <string name="Calories_s">Calories:</string>
+    <string name="Fats_s">Fats:</string>
+    <string name="Squirrels_s">Squirrels:</string>
+    <string name="Carbohydrates_s">Carbohydrates:</string>
+    <string name="nothing_s">____</string>
+
+    <string name="Changenorm_s">Change norm</string>
+    <string name="Addproduct_s">Add product</string>
+
+
+    <string name="Weight_g">Weight gain</string>
+    <string name="Weight_l">Weight lost</string>
+
+
+    <string name="prod_name">Product name:</string>
+    <string name="prod_cal">Calories(gr):</string>
+    <string name="prod_fats">Fats(gr):</string>
+    <string name="prod_squir">Squirrels(gr):</string>
+    <string name="prod_carb">Carbohyd.(gr):</string>
+    <string name="absolutely">Absolutely(gr):</string>
+
+    <string name="Change_p">Change profile</string>
+    <string name="Change">Change</string>
+
+
+</resources>
